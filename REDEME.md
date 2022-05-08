@@ -14,6 +14,8 @@
 2. 初中
 3. 高中
 4. 大学
+5. 继续深造
+
 
 ```javascript
 console.log('hello')
